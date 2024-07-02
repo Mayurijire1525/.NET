@@ -1,0 +1,15 @@
+D:\IACSD\.NET\IFElsexample\bin\Debug\net8.0\IFElsexample.exe
+D:\IACSD\.NET\IFElsexample\bin\Debug\net8.0\IFElsexample.deps.json
+D:\IACSD\.NET\IFElsexample\bin\Debug\net8.0\IFElsexample.runtimeconfig.json
+D:\IACSD\.NET\IFElsexample\bin\Debug\net8.0\IFElsexample.dll
+D:\IACSD\.NET\IFElsexample\bin\Debug\net8.0\IFElsexample.pdb
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.AssemblyInfoInputs.cache
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.AssemblyInfo.cs
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.csproj.CoreCompileInputs.cache
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.sourcelink.json
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.dll
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\refint\IFElsexample.dll
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.pdb
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\IFElsexample.genruntimeconfig.cache
+D:\IACSD\.NET\IFElsexample\obj\Debug\net8.0\ref\IFElsexample.dll

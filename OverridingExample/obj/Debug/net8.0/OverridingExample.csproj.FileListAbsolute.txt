@@ -1,0 +1,15 @@
+D:\IACSD\.NET\OverridingExample\bin\Debug\net8.0\OverridingExample.exe
+D:\IACSD\.NET\OverridingExample\bin\Debug\net8.0\OverridingExample.deps.json
+D:\IACSD\.NET\OverridingExample\bin\Debug\net8.0\OverridingExample.runtimeconfig.json
+D:\IACSD\.NET\OverridingExample\bin\Debug\net8.0\OverridingExample.dll
+D:\IACSD\.NET\OverridingExample\bin\Debug\net8.0\OverridingExample.pdb
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.AssemblyInfoInputs.cache
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.AssemblyInfo.cs
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.csproj.CoreCompileInputs.cache
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.sourcelink.json
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.dll
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\refint\OverridingExample.dll
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.pdb
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\OverridingExample.genruntimeconfig.cache
+D:\IACSD\.NET\OverridingExample\obj\Debug\net8.0\ref\OverridingExample.dll

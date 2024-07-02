@@ -1,0 +1,15 @@
+D:\IACSD\.NET\OperatorExample\bin\Debug\net8.0\OperatorExample.exe
+D:\IACSD\.NET\OperatorExample\bin\Debug\net8.0\OperatorExample.deps.json
+D:\IACSD\.NET\OperatorExample\bin\Debug\net8.0\OperatorExample.runtimeconfig.json
+D:\IACSD\.NET\OperatorExample\bin\Debug\net8.0\OperatorExample.dll
+D:\IACSD\.NET\OperatorExample\bin\Debug\net8.0\OperatorExample.pdb
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.AssemblyInfoInputs.cache
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.AssemblyInfo.cs
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.csproj.CoreCompileInputs.cache
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.sourcelink.json
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.dll
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\refint\OperatorExample.dll
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.pdb
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\OperatorExample.genruntimeconfig.cache
+D:\IACSD\.NET\OperatorExample\obj\Debug\net8.0\ref\OperatorExample.dll

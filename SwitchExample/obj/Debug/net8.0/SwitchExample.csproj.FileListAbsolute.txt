@@ -1,0 +1,15 @@
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.AssemblyInfoInputs.cache
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.AssemblyInfo.cs
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.csproj.CoreCompileInputs.cache
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.sourcelink.json
+D:\IACSD\.NET\SwitchExample\bin\Debug\net8.0\SwitchExample.exe
+D:\IACSD\.NET\SwitchExample\bin\Debug\net8.0\SwitchExample.deps.json
+D:\IACSD\.NET\SwitchExample\bin\Debug\net8.0\SwitchExample.runtimeconfig.json
+D:\IACSD\.NET\SwitchExample\bin\Debug\net8.0\SwitchExample.dll
+D:\IACSD\.NET\SwitchExample\bin\Debug\net8.0\SwitchExample.pdb
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.dll
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\refint\SwitchExample.dll
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.pdb
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\SwitchExample.genruntimeconfig.cache
+D:\IACSD\.NET\SwitchExample\obj\Debug\net8.0\ref\SwitchExample.dll

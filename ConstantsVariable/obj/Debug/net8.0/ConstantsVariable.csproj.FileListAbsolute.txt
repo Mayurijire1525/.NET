@@ -1,0 +1,15 @@
+D:\IACSD\.NET\ConstantsVariable\bin\Debug\net8.0\ConstantsVariable.exe
+D:\IACSD\.NET\ConstantsVariable\bin\Debug\net8.0\ConstantsVariable.deps.json
+D:\IACSD\.NET\ConstantsVariable\bin\Debug\net8.0\ConstantsVariable.runtimeconfig.json
+D:\IACSD\.NET\ConstantsVariable\bin\Debug\net8.0\ConstantsVariable.dll
+D:\IACSD\.NET\ConstantsVariable\bin\Debug\net8.0\ConstantsVariable.pdb
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.AssemblyInfoInputs.cache
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.AssemblyInfo.cs
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.csproj.CoreCompileInputs.cache
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.sourcelink.json
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.dll
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\refint\ConstantsVariable.dll
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.pdb
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ConstantsVariable.genruntimeconfig.cache
+D:\IACSD\.NET\ConstantsVariable\obj\Debug\net8.0\ref\ConstantsVariable.dll
