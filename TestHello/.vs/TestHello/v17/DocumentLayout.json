@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IACSD\\.NET\\TestHello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\typeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\mathengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\typeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC718-3AC5-43B3-98F2-D9E2806F0B01}|..\\TypeApp\\TypeApp.csproj|d:\\iacsd\\.net\\typeapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|d:\\iacsd\\.net\\testhello\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|solutionrelative:complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|d:\\iacsd\\.net\\testhello\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|d:\\iacsd\\.net\\testhello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|d:\\iacsd\\.net\\testhello\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDB101F-FACE-4916-AA36-6CED8B6F60D9}|TestHello.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\Point.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\Point.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\Point.cs",
+              "RelativeToolTip": "..\\TypeApp\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:13:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\Program.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\Program.cs",
+              "RelativeToolTip": "..\\TypeApp\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:40:10.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\Account.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\Account.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\Account.cs",
+              "RelativeToolTip": "..\\TypeApp\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:10:31.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeApp.csproj",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\TypeApp.csproj",
+              "RelativeDocumentMoniker": "..\\TypeApp\\TypeApp.csproj",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\TypeApp.csproj",
+              "RelativeToolTip": "..\\TypeApp\\TypeApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T10:40:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathEngine.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\MathEngine.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\MathEngine.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\MathEngine.cs",
+              "RelativeToolTip": "..\\TypeApp\\MathEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:12:47.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\Line.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\Line.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\Line.cs",
+              "RelativeToolTip": "..\\TypeApp\\Line.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:47:07.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TypeApp.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\TypeApp.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\TypeApp.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\TypeApp.cs",
+              "RelativeToolTip": "..\\TypeApp\\TypeApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:11:39.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\Complex.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\Complex.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\Complex.cs",
+              "RelativeToolTip": "..\\TypeApp\\Complex.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:41:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TypeApp\\Shape.cs",
+              "RelativeDocumentMoniker": "..\\TypeApp\\Shape.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TypeApp\\Shape.cs",
+              "RelativeToolTip": "..\\TypeApp\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:48:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TestHello\\Complex.cs",
+              "RelativeDocumentMoniker": "Complex.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TestHello\\Complex.cs",
+              "RelativeToolTip": "Complex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:11:16.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TestHello\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TestHello\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:59:33.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TestHello\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TestHello\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwCUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:42:10.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\TestHello\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\TestHello\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:39:16.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

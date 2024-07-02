@@ -1,0 +1,15 @@
+D:\IACSD\.NET\TypeApp\bin\Debug\net8.0\TypeApp.exe
+D:\IACSD\.NET\TypeApp\bin\Debug\net8.0\TypeApp.deps.json
+D:\IACSD\.NET\TypeApp\bin\Debug\net8.0\TypeApp.runtimeconfig.json
+D:\IACSD\.NET\TypeApp\bin\Debug\net8.0\TypeApp.dll
+D:\IACSD\.NET\TypeApp\bin\Debug\net8.0\TypeApp.pdb
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.AssemblyInfoInputs.cache
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.AssemblyInfo.cs
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.csproj.CoreCompileInputs.cache
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.sourcelink.json
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.dll
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\refint\TypeApp.dll
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.pdb
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\TypeApp.genruntimeconfig.cache
+D:\IACSD\.NET\TypeApp\obj\Debug\net8.0\ref\TypeApp.dll
