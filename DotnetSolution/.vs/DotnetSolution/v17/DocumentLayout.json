@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IACSD\\.NET\\DotnetSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972CBE-FB74-4EB2-B694-2486C7F52836}|PaintBrush\\PaintBrush.csproj|d:\\iacsd\\.net\\dotnetsolution\\paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2972CBE-FB74-4EB2-B694-2486C7F52836}|PaintBrush\\PaintBrush.csproj|solutionrelative:paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972CBE-FB74-4EB2-B694-2486C7F52836}|PaintBrush\\PaintBrush.csproj|d:\\iacsd\\.net\\dotnetsolution\\paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2972CBE-FB74-4EB2-B694-2486C7F52836}|PaintBrush\\PaintBrush.csproj|solutionrelative:paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866E8A46-0ECC-4F2E-810D-C163B5DE107C}|AmazonOnline\\AmazonOnline.csproj|d:\\iacsd\\.net\\dotnetsolution\\amazononline\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{866E8A46-0ECC-4F2E-810D-C163B5DE107C}|AmazonOnline\\AmazonOnline.csproj|solutionrelative:amazononline\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97A1B25-1E41-400F-87D3-E9955D38AE24}|MemMgmtApp\\MemMgmtApp.csproj|d:\\iacsd\\.net\\dotnetsolution\\memmgmtapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97A1B25-1E41-400F-87D3-E9955D38AE24}|MemMgmtApp\\MemMgmtApp.csproj|solutionrelative:memmgmtapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97A1B25-1E41-400F-87D3-E9955D38AE24}|MemMgmtApp\\MemMgmtApp.csproj|d:\\iacsd\\.net\\dotnetsolution\\memmgmtapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97A1B25-1E41-400F-87D3-E9955D38AE24}|MemMgmtApp\\MemMgmtApp.csproj|solutionrelative:memmgmtapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\DotnetSolution\\PaintBrush\\Form1.cs",
+              "RelativeDocumentMoniker": "PaintBrush\\Form1.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\DotnetSolution\\PaintBrush\\Form1.cs*",
+              "RelativeToolTip": "PaintBrush\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:48:18.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\DotnetSolution\\PaintBrush\\Form1.cs",
+              "RelativeDocumentMoniker": "PaintBrush\\Form1.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\DotnetSolution\\PaintBrush\\Form1.cs [Design]*",
+              "RelativeToolTip": "PaintBrush\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:55:16.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\DotnetSolution\\AmazonOnline\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AmazonOnline\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\IACSD\\.NET\\DotnetSolution\\AmazonOnline\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AmazonOnline\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T16:52:52.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\DotnetSolution\\MemMgmtApp\\Program.cs",
+              "RelativeDocumentMoniker": "MemMgmtApp\\Program.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\DotnetSolution\\MemMgmtApp\\Program.cs",
+              "RelativeToolTip": "MemMgmtApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:50:28.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\DotnetSolution\\MemMgmtApp\\Product.cs",
+              "RelativeDocumentMoniker": "MemMgmtApp\\Product.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\DotnetSolution\\MemMgmtApp\\Product.cs",
+              "RelativeToolTip": "MemMgmtApp\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:50:27.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

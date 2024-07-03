@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GDILib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eaf62468e93be314c9a31fea1b8d19c5dc1868c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6782e1ebf3b1064c118371394d4424f5d7065387")]
 [assembly: System.Reflection.AssemblyProductAttribute("GDILib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GDILib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
