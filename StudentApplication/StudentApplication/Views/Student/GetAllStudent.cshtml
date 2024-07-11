@@ -1,0 +1,25 @@
+﻿@using StudentApplication.Models;
+
+@{
+	List<Students> students = (List<Students>)ViewData["catalog"];
+	<h1>List of Students</h1>
+	<ol>
+		@{
+			foreach (Students student in students)
+			{
+				<li>
+					@student.Id
+					@student.Name
+					@student.email
+					@student.phone
+					@student.Address
+					@student.admission_date
+					@student.fees
+					@student.status
+
+				</li>
+			}
+		}
+	</ol>
+
+}

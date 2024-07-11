@@ -1,0 +1,20 @@
+﻿@using WebApplication2.Models;
+@{
+	List<Products> products = (List<Products>)ViewData["catalog"];
+	<h1>List of Products</h1>
+	<ol>
+		@{
+			foreach(Products product in products)
+			{
+				<li>
+				@product.Title
+				@product.Description
+				@product.UnitPrice
+				@product.Quantity
+				@product.ImageUrl
+				</li>
+			}
+		}
+	</ol>
+
+}

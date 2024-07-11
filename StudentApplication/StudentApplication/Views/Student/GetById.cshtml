@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    <html>
+    <head>
+    <title>Student Details</title>
+    </head>
+    <body>
+    <form asp-action="GetById" method="post">
+    <label>Enter student ID:</label>
+    <input type="number" name="Id" />
+
+    </form>
+        @if (ViewData["catalog"] != null)
+        {
+            var students = (Students)ViewData["catalog"];
+            <ul>
+            <li>Id:@students.Id</li>
+            <li>Name:@students.Name</li>
+            <li>email:@students.email</li>
+            <li>phone:@students.phone</li>
+            <li>Address:@students.Address</li>
+            <li>admission_date:@students.admission_date</li>
+            <li>fees:@students.fees</li>
+            <li>status:@students.status</li>
+            </ul>
+        }
+    </body>
+    </html>
+}

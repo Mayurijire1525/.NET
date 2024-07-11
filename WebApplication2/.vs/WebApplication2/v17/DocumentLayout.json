@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IACSD\\.NET\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\repositories\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\repositories\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\views\\product\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|d:\\iacsd\\.net\\webapplication2\\webapplication2\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EC9C97-3E24-40AA-9755-AE6B0AFC6B75}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:16:07.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Repositories\\ProductManager.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\ProductManager.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Repositories\\ProductManager.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\ProductManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:05:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:52:06.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllProduct.cshtml",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\GetAllProduct.cshtml",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\GetAllProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T06:48:22.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Repositories\\IProductManager.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\IProductManager.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Repositories\\IProductManager.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\IProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:05:18.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:16:37.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetById.cshtml",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\GetById.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\GetById.cshtml",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\GetById.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\GetById.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T07:03:07.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\ProductService.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:16:10.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Products.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Models\\Products.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:55:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T07:00:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\IProductService.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Services\\IProductService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:14:57.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectionContext.cs",
+              "DocumentMoniker": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Repositories\\CollectionContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\CollectionContext.cs",
+              "ToolTip": "D:\\IACSD\\.NET\\WebApplication2\\WebApplication2\\Repositories\\CollectionContext.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\CollectionContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:46:59.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

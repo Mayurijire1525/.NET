@@ -1,0 +1,28 @@
+﻿@using WebApplication2.Models;
+@{
+
+	<html>
+	<head>
+	<title>Product Details</title>
+	</head>
+	<body>
+	<form asp-action="GetById" method="post">
+	<label for="productId">Enter product ID:</label>
+			<input type="text" id="productId" name="id" />
+			<button type="submit">Get Product</button>
+	</form>
+		@if (ViewData["catalog"] != null)
+		{
+
+			var products = (Products)ViewData["catalog"];
+			<ul>
+				<li>Title: @products.Title</li>
+				<li>Description: @products.Description</li>
+				<li>Unit Price: @products.UnitPrice</li>
+				<li>Quantity: @products.Quantity</li>
+				<li>Image URL: @products.ImageUrl</li>
+			</ul>
+		}
+	</body>
+	</html>
+}
