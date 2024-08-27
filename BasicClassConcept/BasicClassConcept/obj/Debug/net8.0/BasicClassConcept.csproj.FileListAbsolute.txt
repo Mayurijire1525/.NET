@@ -1,0 +1,15 @@
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\bin\Debug\net8.0\BasicClassConcept.exe
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\bin\Debug\net8.0\BasicClassConcept.deps.json
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\bin\Debug\net8.0\BasicClassConcept.runtimeconfig.json
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\bin\Debug\net8.0\BasicClassConcept.dll
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\bin\Debug\net8.0\BasicClassConcept.pdb
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.AssemblyInfoInputs.cache
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.AssemblyInfo.cs
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.csproj.CoreCompileInputs.cache
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.sourcelink.json
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.dll
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\refint\BasicClassConcept.dll
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.pdb
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\BasicClassConcept.genruntimeconfig.cache
+D:\IACSD\.NET\BasicClassConcept\BasicClassConcept\obj\Debug\net8.0\ref\BasicClassConcept.dll
